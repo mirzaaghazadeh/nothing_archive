@@ -62,6 +62,7 @@ Here is a list of all the firmware files available for download:
 |-------|------------|--------|---------------|--------|---------|
 |3.0 open beta 1|Spacewar-V3.0-241211-0926||[EEA/GLOBAL from 2.6 hotfix 2](https://archive.org/download/nothing-phone-1-firmwakladkladre/3.0%20open%20beta%201/ota_diff_20241031_181822_20241211_092656.zip)|[EEA/GLOBAL to 2.6 hotfix 2](https://archive.org/download/nothing-phone-1-firmware/3.0%20open%20beta%201/ota_diff_20241211_092656_20241031_181822.zip)|<details><summary>changelog</summary>Shared Widgets<br>🔮 Use widgets to link up with friends and family. See another person’s widgets displayed on your home screen and interact with each other through reactions. A new way to stay connected.<br>Lock screen<br>🔒 New lock screen customisation page. Access by long-pressing the lock screen or via the Customisation page.<br>🕰️ Upgraded clock faces. Choose your favourite style.<br>🖼️Expanded widget space, allowing you to place more widgets on your lock screen.<br>Smart Drawer<br>🤖Added AI-powered Smart Drawer feature to automatically categorise your apps into folders. For better organisation and easy access.<br>📌For ultimate convenience, you can pin your favourite apps to the top of the app drawer. No scrolling required.<br>Quick Settings<br>🧩Reconsidered Quick Settings design with an optimised editing experience.<br>🖼️ Enhanced widget library design.<br>🎨Updated visuals in Settings including better Network & Internet and Bluetooth options.<br>Camera improvements<br>📷 Faster camera launch speed under the Camera Widget.<br>🖼️ Reduced HDR scene processing time.<br>⏲️ Smoothened user interface after countdown photos<br>🔍 Improved zoom slider display.<br>Enhanced pop-up view<br>📱 Movable pop-up view for cleaner and more productive multi-tasking.<br>📐 Easily resize the pop-up view by dragging the bottom corners.<br>📍 Pin the pop-up view on the screen edge for quick access.<br>🔔View information without leaving your current app. Simply swipe down on incoming notifications to enter the pop-up view. Enable via Settings > System > Pop-up view.<br>Other improvements<br>🤖AI-powered selection and prioritisation of your frequently used apps, keeping them at your fingertips for a more efficient experience<br>🗃️ Added support for auto-archive function to automatically free up storage space without removing apps or data from your device.<br>🖥️ Partial screen sharing for more efficient and secure screen recording. Record just an app window rather than the entire screen.<br>🚀 Updated setup wizard to version 3.0 for the smoothest introduction to Nothing OS.<br>⬅️ Enabled predictive back animations for apps that have opted in.<br>👆New fingerprint animation with signature dot matrix styling.<br>🔋New charging animation with signature dot matrix styling.</details>|
 
+
 ### Android 14
 
 |Version|build number|Full OTA|Incremental OTA|Rollback|Changelog|
@@ -240,6 +241,7 @@ Here is a list of all the firmware files available for download:
 
 |Version|build number|Full OTA|Incremental OTA|Rollback|
 |-------|------------|--------|---------------|--------|
+|3.0|Pacman_V3.0-241210-2057|[Black / White / Milk / Blue / Special Edition](https://android.googleapis.com/packages/ota-api/package/7e81406e8f6908b1504620ca979cb8fa80dc84cb.zip)|||
 |3.0 open beta 2|Pacman-V3.0-241031-2105||[Black / White / Milk / Blue / Special Edition from 3.0 open beta 1](https://archive.org/download/nothing-phone-2a-firmware/3.0%20open%20beta%202/ota_diff_20240923_213518_241031_210515.zip)|[Black / White / Milk / Blue / Special Edition to 2.6 hotfix 2](https://archive.org/download/nothing-phone-2a-firmware/3.0%20open%20beta%202/ota_diff_20241031_210515_20241021_225330.zip)|
 |3.0 open beta 1|Pacman-V3.0-240923-2135||[Black / White / Milk / Blue / Special Edition from 2.6 hotfix](https://archive.org/download/nothing-phone-2a-firmware/3.0%20open%20beta%201/ota_diff_20240828_190644_20240923_213518.zip)|[Black / White / Milk / Blue / Special Edition to 2.6 hotfix](https://archive.org/download/nothing-phone-2a-firmware/3.0%20open%20beta%201/ota_diff_20240923_213518_20240828_190644.zip)|
 
@@ -283,6 +285,13 @@ Here is a list of all the firmware files available for download:
 > For fastboot flashing check [spike0en fastboot flashing](https://github.com/spike0en/Pacman_Archive#fastboot-flashing).
 
 ## Nothing Phone 2a plus
+
+### Android 15
+
+|Version|build number|Full OTA|Incremental OTA|
+|-------|------------|--------|---------------|
+|3.0 open beta 1|PacmanPro_V3.0-241226-1537|[Grey / Black](https://android.googleapis.com/packages/ota-api/package/920e82afd0cb40da211a887baeb5297224c3a2c8.zip)|||
+
 
 ### Android 14
 
