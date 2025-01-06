@@ -241,7 +241,8 @@ Here is a list of all the firmware files available for download:
 
 |Version|build number|Full OTA|Incremental OTA|Rollback|
 |-------|------------|--------|---------------|--------|
-|3.0|Pacman_V3.0-241210-2057|[Black / White / Milk / Blue / Special Edition](https://android.googleapis.com/packages/ota-api/package/7e81406e8f6908b1504620ca979cb8fa80dc84cb.zip)|||
+|3.0|Pacman_V3.0-250103-1741||[Black / White / Milk / Blue / Special Edition from 3.0 2057](https://android.googleapis.com/packages/ota-api/package/34c43764d71f9df1c6c1575cc35134c68acebcb6.zip)||
+|3.0|Pacman_V3.0-241210-2057||[Black / White / Milk / Blue / Special Edition from 2.6 hotfix 2](https://android.googleapis.com/packages/ota-api/package/7e81406e8f6908b1504620ca979cb8fa80dc84cb.zip)||
 |3.0 open beta 2|Pacman-V3.0-241031-2105||[Black / White / Milk / Blue / Special Edition from 3.0 open beta 1](https://archive.org/download/nothing-phone-2a-firmware/3.0%20open%20beta%202/ota_diff_20240923_213518_241031_210515.zip)|[Black / White / Milk / Blue / Special Edition to 2.6 hotfix 2](https://archive.org/download/nothing-phone-2a-firmware/3.0%20open%20beta%202/ota_diff_20241031_210515_20241021_225330.zip)|
 |3.0 open beta 1|Pacman-V3.0-240923-2135||[Black / White / Milk / Blue / Special Edition from 2.6 hotfix](https://archive.org/download/nothing-phone-2a-firmware/3.0%20open%20beta%201/ota_diff_20240828_190644_20240923_213518.zip)|[Black / White / Milk / Blue / Special Edition to 2.6 hotfix](https://archive.org/download/nothing-phone-2a-firmware/3.0%20open%20beta%201/ota_diff_20240923_213518_20240828_190644.zip)|
 
@@ -271,6 +272,7 @@ Here is a list of all the firmware files available for download:
 
 |Version|Boot file (Stock)|Boot file (Magisk Patched)|
 |-------|-----------------|--------------------------|
+|Pacman_V3.0-250103-1741|[Black / White / Milk / Special Edition](https://github.com/mirzaaghazadeh/nothing_archive/blob/main/boot_files/2a/Pacman_V3.0-250103-1741/init_boot.img)|[Black / White / Milk / Special Edition](https://github.com/mirzaaghazadeh/nothing_archive/blob/main/boot_files/2a/Pacman_V3.0-250103-1741/magisk_patched-28100_MrMWG.img)|
 |3.0 open beta 2|[Black / White / Milk / Special Edition](https://archive.org/download/nothing-phone-2a-firmware/3.0%20open%20beta%202/3.0.OB2_Init_Boot.img)|[Black / White / Milk / Special Edition](https://archive.org/download/nothing-phone-2a-firmware/3.0%20open%20beta%202/Magisk-Patched_3.0.OB2_Init_Boot.img)|
 |3.0 open beta 1|[Black / White / Milk / Special Edition](https://archive.org/download/nothing-phone-2a-firmware/3.0%20open%20beta%201/3.0.OB1_Init_Boot.img)|[Black / White / Milk / Special Edition](https://archive.org/download/nothing-phone-2a-firmware/3.0%20open%20beta%201/Magisk-Patched_3.0.OB1_Init_Boot.img)|
 |2.6 hotfix 2|[Black / White / Milk / Special Edition](https://archive.org/download/nothing-phone-2a-firmware/2.6%20hotfix%202/2.6.HOTFIX2_Init_Boot.img)|[Black / White / Milk / Special Edition](https://archive.org/download/nothing-phone-2a-firmware/2.6%20hotfix%202/Magisk-Patched_2.6.HOTFIX2_Init_Boot.img)|
